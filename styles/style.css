@@ -222,7 +222,7 @@ text-align: center;
   gap: 155px;
   margin-top: 50px;
 }
-.sponsors-logo img {
+.sponsors-logo  {
   filter: grayscale(100%);
 }
 footer{
